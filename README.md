@@ -1,4 +1,4 @@
-Repository: git@gitlab.com:lamtech-tooling/terraform/sonarqube-terraform.git
+Repository: git@github.com:debaj4life/sonarqube-app-terraform.git
 Description:
 Provisioning AWS EC2 instances to deploy sonarqube.
 Prerequisites:
